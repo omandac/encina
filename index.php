@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-<img src = "1.png" width = "100px" height = "20%" >
+<img src = "encina.png" >
 </body>
 </html>
